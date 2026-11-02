@@ -89,7 +89,7 @@ Grab the latest APK from [Releases](../../releases) and sideload it. Android wil
 ### Option 2 — Build from source
 
 ```bash
-git clone https://github.com/<your-name>/EarAlarm.git
+git clone https://github.com/Chen1Motong/EarAlarm.git
 cd EarAlarm
 ./gradlew assembleDebug
 # output: app/build/outputs/apk/debug/app-debug.apk

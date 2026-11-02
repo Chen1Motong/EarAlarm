@@ -89,7 +89,7 @@ TYPE_HEARING_AID        // 助听设备
 ### 方式二：从源码构建
 
 ```bash
-git clone https://github.com/<your-name>/EarAlarm.git
+git clone https://github.com/Chen1Motong/EarAlarm.git
 cd EarAlarm
 ./gradlew assembleDebug
 # 产物：app/build/outputs/apk/debug/app-debug.apk
