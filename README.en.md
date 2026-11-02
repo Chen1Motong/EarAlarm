@@ -9,18 +9,21 @@
 
 > An Android alarm clock that **only rings through your headphones**. No headphones connected? It stays silent. Unplug them mid-ring? It mutes instantly.
 >
-> Built for people in dorms, shared flats, or sleeping next to someone — you get woken up, the whole room doesn't.
+> Built for dorms, shared flats, and sleeping next to someone — you get woken up, the whole room doesn't. It works just as well in a library: set a nap alarm that stays in your ears instead of cutting through a silent reading room.
 
 ---
 
 ## Why
 
-A phone's built-in alarm has two modes: loud, or off. Neither works in a dormitory:
+A phone's built-in alarm has two modes: loud, or off. Neither works in a shared space:
 
-- **Sound on** — your 6:30 AM alarm wakes three roommates too.
-- **Vibrate only** — you won't feel it on a desk.
+- **Dorm** — sound on means your 6:30 AM alarm wakes three roommates too; vibrate-only is imperceptible from a desk.
+- **Library** — a 25-minute nap alarm at full volume makes every head in the reading room turn.
+- **Shared flat / sleeping next to someone** — any speaker output is a disturbance.
 
-So this app inverts the model: **the alarm only rings when headphones are connected**. Put your earbuds in before bed, and morning sound goes into your ears alone. Forget to put them in, and the alarm quietly skips instead of blasting the room.
+So this app inverts the model: **the alarm only rings when headphones are connected**. Earbuds in, and the sound goes into your ears alone. Forget them, and the alarm quietly skips instead of blasting the room.
+
+For library use, set a short ring duration (10–15 seconds) — long enough to wake you, short enough not to draw stares.
 
 ## Features
 
