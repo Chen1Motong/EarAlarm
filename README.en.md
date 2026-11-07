@@ -30,8 +30,8 @@
 
 A phone's built-in alarm has two modes: loud, or off. Neither works in a shared space:
 
+- **Library** — a 25-minute nap alarm at full volume makes every head in the reading room turn. With headphones it wakes only you — and keeps your desk nap a secret.
 - **Dorm** — sound on means your 6:30 AM alarm wakes three roommates too; vibrate-only is imperceptible from a desk.
-- **Library** — a 25-minute nap alarm at full volume makes every head in the reading room turn.
 - **Shared flat / sleeping next to someone** — any speaker output is a disturbance.
 
 So this app inverts the model: **the alarm only rings when headphones are connected**. Earbuds in, and the sound goes into your ears alone. Forget them, and the alarm quietly skips instead of blasting the room.
