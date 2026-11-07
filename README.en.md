@@ -13,6 +13,19 @@
 
 ---
 
+## Preview
+
+| Main · No headphones | Main · Headphones connected | Ringing |
+|:---:|:---:|:---:|
+| ![Main](screenshots/main_nohead.jpg) | ![Connected](screenshots/main_conn.jpg) | ![Ringing](screenshots/ringing.jpg) |
+
+**Full flow**: set an alarm → rings exactly on time → unplug, instantly silent
+
+![Demo](screenshots/demo.gif)
+
+---
+
+
 ## Why
 
 A phone's built-in alarm has two modes: loud, or off. Neither works in a shared space:
