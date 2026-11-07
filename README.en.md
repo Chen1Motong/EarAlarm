@@ -9,7 +9,7 @@
 
 > An Android alarm clock that **only rings through your headphones**. No headphones connected? It stays silent. Unplug them mid-ring? It mutes instantly.
 >
-> Built for dorms, shared flats, and sleeping next to someone — you get woken up, the whole room doesn't. It works just as well in a library: set a nap alarm that stays in your ears instead of cutting through a silent reading room.
+> Built for the library and study rooms — set a nap alarm that stays in your ears instead of cutting through a silent reading room. It works just as well for dorms, shared flats, and sleeping next to someone: you get woken up, the whole room doesn't.
 
 ---
 
